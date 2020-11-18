@@ -1,3 +1,3 @@
-# datasciencecoursera
+### datasciencecoursera
 
-## this is a repo for the Coursera Data Science course
+### this is a repo for the Coursera Data Science course
